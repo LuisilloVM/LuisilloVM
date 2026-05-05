@@ -1,6 +1,6 @@
-# Hi, I'm Luis Valerio 👋
+# Hi, I'm Luis Valerio 👋  
 
-💻 **Fullstack Developer** | 📊 **Data Analysis in Industrial Environments**
+💻 Fullstack Developer | 📊 Data-Driven Solutions in Industrial Environments  
 
 I build software solutions and explore how data can improve real-world processes.
 Currently working in the food processing industry in Costa Rica 🇨🇷, where I’m gaining hands-on experience with operational workflows, production systems, and business data.
